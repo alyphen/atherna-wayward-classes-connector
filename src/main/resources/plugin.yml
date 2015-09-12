@@ -1,0 +1,6 @@
+name: ${project.name}
+author: alyphen
+version: ${project.version}
+description: ${project.description}
+main: com.seventh_root.atherna.waywardclassesconnector.AthernaWaywardClassesConnector
+depend: [atherna, WaywardLib]
